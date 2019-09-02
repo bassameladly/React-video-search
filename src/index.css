@@ -1,0 +1,19 @@
+body {
+  background-color: blue
+}
+.search-bar{
+  margin: 20px;
+  text-align: center;
+  border: 10px;
+  
+}
+.video-list{
+  text-align: center
+}
+
+.video-list-title{
+  color: red;
+  font-size: 20;
+  font-weight: bold
+}
+
